@@ -1,6 +1,6 @@
 # Bioinformatics and Network Medicine
 
-This repository hosts the final project (***``***) for the Bioinformatics and Network Medicine exam, instructed by Professors Paolo Tieri and Manuela Petti, as part of the Master’s degree in Data Science at Sapienza University of Rome. The project demonstrates our group's collective efforts and key findings.
+This repository hosts the final project (***`BINM_report.pdf`***) for the Bioinformatics and Network Medicine exam, instructed by Professors Paolo Tieri and Manuela Petti, as part of the Master’s degree in Data Science at Sapienza University of Rome. The project demonstrates our group's collective efforts and key findings.
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
