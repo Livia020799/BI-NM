@@ -8,7 +8,11 @@ This repository hosts the final project (***`BINM_report.pdf`***) for the Bioinf
 
 The exam in Bioinformatics and Network Medicine consisted of an oral exam and a final project detailed in the document ***`BNM_project_ay_24_25.docx`***.<br>
 
-The final project involved applying bioinformatics and network medicine techniques to identify putative disease genes and explore drug repurposing opportunities for retinal dystrophy (UMLS ID: C0854723). 
+-------------------------------------------------------------------------------------------------------------------------------------
+
+### **Project Overview**
+
+This project was a collaborative effort by [Francesco Mari](https://github.com/FraMari00), [Livia Oddi](https://github.com/Livia020799), [Lorenzo Pannacci](https://github.com/LorenzoPannacci). It involved applying bioinformatics and network medicine techniques to identify putative disease genes, and explore drug repurposing opportunities for retinal dystrophy (UMLS ID: C0854723). 
 
 The workflow included:
 1. **Data Gathering and Network Construction:** 
@@ -25,14 +29,6 @@ The workflow included:
 
 While algorithm outputs exhibited limited overlap, the methods provided insights into disease module structure and highlighted potential gene candidates.
 No approved drugs targeting the predicted genes were found in DGIdb, reflecting challenges in leveraging current databases for this disease.
-
-
-
--------------------------------------------------------------------------------------------------------------------------------------
-
-### **Project Overview**
-
-This project was a collaborative effort by [Francesco Mari](https://github.com/FraMari00), [Livia Oddi](https://github.com/Livia020799), [Lorenzo Pannacci](https://github.com/LorenzoPannacci).
 
 -------------------------------------------------------------------------------------------------------------------------------------
 
